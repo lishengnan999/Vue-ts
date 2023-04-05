@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[232],{4232:function(n,t,a){a.r(t),a.d(t,{default:function(){return i}});var e=a(6252);const r={class:"chat"},u=(0,e._)("h2",null,"chat",-1),c=[u];function s(n,t,a,u,s,p){return(0,e.wg)(),(0,e.iD)("div",r,c)}var p=(0,e.aZ)({name:"chat",setup(){return{}}}),h=a(3744);const f=(0,h.Z)(p,[["render",s]]);var i=f}}]);
+//# sourceMappingURL=232.2e3c2281.js.map
